@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/halvormoe/CLionProjects/TestingTexture
+paths:  /opt/homebrew/lib/libSDL2_image.dylib;/opt/homebrew/lib/libSDL2.dylib 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/halvormoe/CLionProjects/TestingTexture/cmake-build-debug

@@ -1,0 +1,3 @@
+/Users/halvormoe/CLionProjects/TestingTexture/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/halvormoe/CLionProjects/TestingTexture/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/halvormoe/CLionProjects/TestingTexture/cmake-build-debug/CMakeFiles/TestingTexture.dir
